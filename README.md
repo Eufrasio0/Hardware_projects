@@ -1,2 +1,1 @@
-# compositor_eletronico
-Projeto desenvolvido com esp8266: o projeto consiste e um dispositivo capaz de escrever e compilar musicas.
+Repositório dedicado a guardar projetos com microcontroladores e eletrônica 
